@@ -1,0 +1,963 @@
+"original address",latitude,longitude
+"4990 Freeport Blvd Sacramento,CA",38.528973,-121.496267
+"1900 Alhambra Blvd Sacramento,CA",38.562679,-121.470001
+"4315 Arden Way Sacramento,CA",38.596472,-121.364055
+"1040 Florin Rd Sacramento,CA",38.494618,-121.521446
+"4551 Mack Rd Sacramento,CA",38.475479,-121.449452
+"8122 Gerber Rd Sacramento,CA",38.480359,-121.407647
+"4408 Del Rio Rd Sacramento,CA",38.53639,-121.504812
+"4401 Broadway Sacramento,CA",38.547328,-121.455894
+"5600 Folsom Blvd Sacramento,CA",38.557663,-121.438607
+"3994 2nd Ave Sacramento,CA",38.550418,-121.460433
+"3404 Martin Luther King Jr Blvd Sacramento,CA",38.54376,-121.465053
+"2835 Norwood Ave Sacramento,CA",38.619448,-121.457757
+"4143 23rd Ave Sacramento,CA",38.532426,-121.458114
+"4310 73rd St Sacramento,CA",38.535781,-121.419584
+"3547 Bradshaw Rd Sacramento,CA",38.558329,-121.334115
+"1547 Fulton Ave Ste B Sacramento,CA",38.594023,-121.402042
+"515 Pavilions Ln Sacramento,CA",38.574954,-121.41137
+"3250 Arena Blvd Sacramento,CA",38.642102,-121.533432
+"5764 Antelope Rd Ste B2 Sacramento,CA",38.704773,-121.326718
+"2625 Marconi Ave Sacramento,CA",38.618536,-121.400223
+"2386 Fruitridge Rd Sacramento,CA",38.524717,-121.483746
+"6260 Folsom Blvd Sacramento,CA",38.554878,-121.430029
+"3033 Hurley Way Ste 106 Sacramento,CA",38.589156,-121.392686
+"4562 Mack Rd Sacramento,CA",38.472432,-121.44872
+"1700 Capitol Ave Sacramento,CA",38.574034,-121.48521
+"400 El Camino Ave Sacramento,CA",38.610462,-121.45788
+"4443 Auburn Blvd Sacramento,CA",38.648169,-121.360953
+"4420 Florin Rd Sacramento,CA",38.494327,-121.454666
+"1131 9th St Sacramento,CA",38.578573,-121.495512
+"1128 7th St Sacramento,CA",38.579416,-121.498611
+"4990 Freeport Blvd Sacramento,CA",38.528973,-121.496267
+"1900 Alhambra Blvd Sacramento,CA",38.562679,-121.470001
+"4315 Arden Way Sacramento,CA",38.596472,-121.364055
+"1040 Florin Rd Sacramento,CA",38.494618,-121.521446
+"4551 Mack Rd Sacramento,CA",38.475479,-121.449452
+"8122 Gerber Rd Sacramento,CA",38.480359,-121.407647
+"4408 Del Rio Rd Sacramento,CA",38.53639,-121.504812
+"4401 Broadway Sacramento,CA",38.547328,-121.455894
+"5600 Folsom Blvd Sacramento,CA",38.557663,-121.438607
+"1900 Point West Way Sacramento,CA",38.599528,-121.431771
+"5044 Franklin Blvd Sacramento,CA",38.529404,-121.472912
+"3540 Norwood Ave Sacramento,CA",38.631466,-121.45638
+"5984 14th Ave Sacramento,CA",38.539523,-121.435362
+"5960 24th St Sacramento,CA",38.51593,-121.483642
+"910 Grand Ave Sacramento,CA",38.63653,-121.445721
+"5278 Fruitridge Rd Sacramento,CA",38.524949,-121.444425
+"4211 Norwood Ave Sacramento,CA",38.644823,-121.458688
+"5597 Stockton Blvd Sacramento,CA",38.525427,-121.442332
+"2199 El Camino Ave Sacramento,CA",38.611118,-121.415711
+"1340 Fulton Ave Sacramento,CA",38.590214,-121.400596
+"604 12th St Sacramento,CA",38.583752,-121.489221
+"402 12th St Sacramento,CA",38.586061,-121.488315
+"1112 C St Sacramento,CA",38.587133,-121.488366
+"1330 O St Sacramento,CA",38.57302,-121.490652
+"1700 Capitol Ave Sacramento,CA",38.574034,-121.48521
+"809 20th St Sacramento,CA",38.578538,-121.478651
+"601 T St Sacramento,CA",38.570871,-121.503246
+"3440 Folsom Blvd Sacramento,CA",38.56628,-121.463231
+"2210 Northgate Blvd Sacramento,CA",38.607276,-121.47504
+"2550 W El Camino Ave Sacramento,CA",38.613094,-121.518378
+"4043 3rd Ave Sacramento,CA",38.54933,-121.459399
+"2426 Del Paso Blvd Sacramento,CA",38.611821,-121.447198
+"2511 Rio Linda Blvd Sacramento,CA",38.613483,-121.448212
+"3501 Northgate Blvd Sacramento,CA",38.629991,-121.476218
+"5600 Folsom Blvd Sacramento,CA",38.557663,-121.438607
+"2600 Rio Linda Blvd Sacramento,CA",38.614946,-121.445707
+"3625 Northgate Blvd Sacramento,CA",38.631129,-121.477268
+"4330 14th Ave Sacramento,CA",38.539272,-121.45564
+"2685 Rio Linda Blvd Sacramento,CA",38.616311,-121.446546
+"1900 Point West Way Sacramento,CA",38.599528,-121.431771
+"5044 Franklin Blvd Sacramento,CA",38.529404,-121.472912
+"3540 Norwood Ave Sacramento,CA",38.631466,-121.45638
+"5984 14th Ave Sacramento,CA",38.539523,-121.435362
+"5960 24th St Sacramento,CA",38.51593,-121.483642
+"910 Grand Ave Sacramento,CA",38.63653,-121.445721
+"5278 Fruitridge Rd Sacramento,CA",38.524949,-121.444425
+"4211 Norwood Ave Sacramento,CA",38.644823,-121.458688
+"5597 Stockton Blvd Sacramento,CA",38.525427,-121.442332
+"2199 El Camino Ave Sacramento,CA",38.611118,-121.415711
+"3994 2nd Ave Sacramento,CA",38.550418,-121.460433
+"3404 Martin Luther King Jr Blvd Sacramento,CA",38.54376,-121.465053
+"2835 Norwood Ave Sacramento,CA",38.619448,-121.457757
+"4143 23rd Ave Sacramento,CA",38.532426,-121.458114
+"4310 73rd St Sacramento,CA",38.535781,-121.419584
+"3547 Bradshaw Rd Sacramento,CA",38.558329,-121.334115
+"1547 Fulton Ave Ste B Sacramento,CA",38.594023,-121.402042
+"515 Pavilions Ln Sacramento,CA",38.574954,-121.41137
+"3250 Arena Blvd Sacramento,CA",38.642102,-121.533432
+"5764 Antelope Rd Ste B2 Sacramento,CA",38.704773,-121.326718
+"2625 Marconi Ave Sacramento,CA",38.618536,-121.400223
+"2386 Fruitridge Rd Sacramento,CA",38.524717,-121.483746
+"6260 Folsom Blvd Sacramento,CA",38.554878,-121.430029
+"3033 Hurley Way Ste 106 Sacramento,CA",38.589156,-121.392686
+"4562 Mack Rd Sacramento,CA",38.472432,-121.44872
+"1700 Capitol Ave Sacramento,CA",38.574034,-121.48521
+"400 El Camino Ave Sacramento,CA",38.610462,-121.45788
+"4443 Auburn Blvd Sacramento,CA",38.648169,-121.360953
+"4420 Florin Rd Sacramento,CA",38.494327,-121.454666
+"1131 9th St Sacramento,CA",38.578573,-121.495512
+"1128 7th St Sacramento,CA",38.579416,-121.498611
+"604 12th St Sacramento,CA",38.583752,-121.489221
+"402 12th St Sacramento,CA",38.586061,-121.488315
+"1112 C St Sacramento,CA",38.587133,-121.488366
+"1330 O St Sacramento,CA",38.57302,-121.490652
+"1700 Capitol Ave Sacramento,CA",38.574034,-121.48521
+"809 20th St Sacramento,CA",38.578538,-121.478651
+"601 T St Sacramento,CA",38.570871,-121.503246
+"3440 Folsom Blvd Sacramento,CA",38.56628,-121.463231
+"2210 Northgate Blvd Sacramento,CA",38.607276,-121.47504
+"2550 W El Camino Ave Sacramento,CA",38.613094,-121.518378
+"4043 3rd Ave Sacramento,CA",38.54933,-121.459399
+"2426 Del Paso Blvd Sacramento,CA",38.611821,-121.447198
+"2511 Rio Linda Blvd Sacramento,CA",38.613483,-121.448212
+"3501 Northgate Blvd Sacramento,CA",38.629991,-121.476218
+"5600 Folsom Blvd Sacramento,CA",38.557663,-121.438607
+"2600 Rio Linda Blvd Sacramento,CA",38.614946,-121.445707
+"3625 Northgate Blvd Sacramento,CA",38.631129,-121.477268
+"4330 14th Ave Sacramento,CA",38.539272,-121.45564
+"2685 Rio Linda Blvd Sacramento,CA",38.616311,-121.446546
+"1340 Fulton Ave Sacramento,CA",38.590214,-121.400596
+"5044 Franklin Blvd Sacramento,CA",38.529404,-121.472912
+"3540 Norwood Ave Sacramento,CA",38.631466,-121.45638
+"5984 14th Ave Sacramento,CA",38.539523,-121.435362
+"5960 24th St Sacramento,CA",38.51593,-121.483642
+"910 Grand Ave Sacramento,CA",38.63653,-121.445721
+"5278 Fruitridge Rd Sacramento,CA",38.524949,-121.444425
+"4211 Norwood Ave Sacramento,CA",38.644823,-121.458688
+"5597 Stockton Blvd Sacramento,CA",38.525427,-121.442332
+"2199 El Camino Ave Sacramento,CA",38.611118,-121.415711
+"6240 Greenhaven Dr Sacramento,CA",38.514062,-121.52671
+"1340 Fulton Ave Sacramento,CA",38.590214,-121.400596
+"1826 Fulton Ave Sacramento,CA",38.598942,-121.401025
+"4790 47th Ave Sacramento,CA",38.510018,-121.450302
+"596 Main Ave Sacramento,CA",38.654868,-121.452179
+"6419 Riverside Blvd Sacramento,CA",38.509605,-121.541274
+"7210 Fruitridge Rd Sacramento,CA",38.524878,-121.420325
+"4300 82nd St Sacramento,CA",38.535976,-121.404891
+"2119 62nd Ave Sacramento,CA",38.495065,-121.490267
+"1301 Florin Rd Sacramento,CA",38.496602,-121.510262
+"7924 Fruitridge Rd Sacramento,CA",38.524715,-121.41064
+"4220 Florin Rd Sacramento,CA",38.494721,-121.456903
+"6830 Stockton Blvd Sacramento,CA",38.502775,-121.432812
+"6968 65th St Sacramento,CA",38.500567,-121.437889
+"4400 Florin Perkins Rd Sacramento,CA",38.535543,-121.392847
+"7319 Arleta Ct Sacramento,CA",38.489888,-121.440654
+"7549 Franklin Blvd # 1 Sacramento,CA",38.484382,-121.45372
+"7261 Stockton Blvd Sacramento,CA",38.49269,-121.427243
+"3510 Auburn Blvd Sacramento,CA",38.636723,-121.381596
+"4128 El Camino Ave Sacramento,CA",38.609521,-121.367484
+"6366 Mack Rd Sacramento,CA",38.472717,-121.428894
+"5044 Franklin Blvd Sacramento,CA",38.529404,-121.472912
+"3540 Norwood Ave Sacramento,CA",38.631466,-121.45638
+"5984 14th Ave Sacramento,CA",38.539523,-121.435362
+"5960 24th St Sacramento,CA",38.51593,-121.483642
+"910 Grand Ave Sacramento,CA",38.63653,-121.445721
+"5278 Fruitridge Rd Sacramento,CA",38.524949,-121.444425
+"4211 Norwood Ave Sacramento,CA",38.644823,-121.458688
+"5597 Stockton Blvd Sacramento,CA",38.525427,-121.442332
+"2199 El Camino Ave Sacramento,CA",38.611118,-121.415711
+"6240 Greenhaven Dr Sacramento,CA",38.514062,-121.52671
+"1340 Fulton Ave Sacramento,CA",38.590214,-121.400596
+"1826 Fulton Ave Sacramento,CA",38.598942,-121.401025
+"4790 47th Ave Sacramento,CA",38.510018,-121.450302
+"596 Main Ave Sacramento,CA",38.654868,-121.452179
+"6419 Riverside Blvd Sacramento,CA",38.509605,-121.541274
+"7210 Fruitridge Rd Sacramento,CA",38.524878,-121.420325
+"4300 82nd St Sacramento,CA",38.535976,-121.404891
+"2119 62nd Ave Sacramento,CA",38.495065,-121.490267
+"1301 Florin Rd Sacramento,CA",38.496602,-121.510262
+"7924 Fruitridge Rd Sacramento,CA",38.524715,-121.41064
+"4220 Florin Rd Sacramento,CA",38.494721,-121.456903
+"6830 Stockton Blvd Sacramento,CA",38.502775,-121.432812
+"6968 65th St Sacramento,CA",38.500567,-121.437889
+"4400 Florin Perkins Rd Sacramento,CA",38.535543,-121.392847
+"7319 Arleta Ct Sacramento,CA",38.489888,-121.440654
+"7549 Franklin Blvd # 1 Sacramento,CA",38.484382,-121.45372
+"7261 Stockton Blvd Sacramento,CA",38.49269,-121.427243
+"3510 Auburn Blvd Sacramento,CA",38.636723,-121.381596
+"4128 El Camino Ave Sacramento,CA",38.609521,-121.367484
+"6366 Mack Rd Sacramento,CA",38.472717,-121.428894
+"7960 Gerber Rd Sacramento,CA",38.480626,-121.410441
+"6640 Valley Hi Dr Sacramento,CA",38.472477,-121.42617
+"6625 Valley Hi Dr Sacramento,CA",38.471439,-121.427612
+"7810 Stockton Blvd Sacramento,CA",38.473811,-121.42027
+"7850 Stockton Blvd Ste 190 Sacramento,CA",38.473593,-121.419495
+"4445 Auburn Blvd Sacramento,CA",38.648463,-121.360532
+"9731 Folsom Blvd Sacramento,CA",38.573597,-121.334253
+"8911 Florin Rd Sacramento,CA",38.496954,-121.371078
+"4847 Amber Ln Sacramento,CA",38.658112,-121.351072
+"4901 Auburn Blvd Sacramento,CA",38.657309,-121.351385
+"5045 Madison Ave Sacramento,CA",38.660492,-121.348111
+"5289 Auburn Blvd Sacramento,CA",38.66558,-121.342739
+"7996 Bradshaw Rd Sacramento,CA",38.466788,-121.334851
+"7210 Roseville Rd Sacramento,CA",38.697135,-121.335923
+"5000 Folsom Blvd Sacramento,CA",38.560446,-121.444854
+"8391 Folsom Blvd Sacramento,CA",38.548094,-121.393092
+"7960 Gerber Rd Sacramento,CA",38.480626,-121.410441
+"3710 Franklin Blvd Sacramento,CA",38.540398,-121.47669
+"3173 Marysville Blvd Sacramento,CA",38.624754,-121.434279
+"6231 Fruitridge Rd Sacramento,CA",38.52558,-121.431875
+"4775 Rio Linda Blvd Sacramento,CA",38.654091,-121.448383
+"6968 65th St Ste E Sacramento,CA",38.500567,-121.437889
+"7245 East Pkwy Sacramento,CA",38.494722,-121.449862
+"4320 Arden Way Sacramento,CA",38.594758,-121.363551
+"3518 Marconi Ave Sacramento,CA",38.616588,-121.38156
+"7596 Bradshaw Rd Sacramento,CA",38.48186,-121.334838
+"5815 Stockton Blvd Ste B Sacramento,CA",38.521121,-121.4398
+"1540 W El Camino Ave Sacramento,CA",38.611796,-121.496539
+"5880 Stockton Blvd Sacramento,CA",38.520059,-121.440794
+"6418 Stockton Blvd Sacramento,CA",38.509623,-121.43636
+"7960 Gerber Rd Sacramento,CA",38.480626,-121.410441
+"6640 Valley Hi Dr Sacramento,CA",38.472477,-121.42617
+"6625 Valley Hi Dr Sacramento,CA",38.471439,-121.427612
+"7810 Stockton Blvd Sacramento,CA",38.473811,-121.42027
+"7850 Stockton Blvd Ste 190 Sacramento,CA",38.473593,-121.419495
+"4445 Auburn Blvd Sacramento,CA",38.648463,-121.360532
+"9731 Folsom Blvd Sacramento,CA",38.573597,-121.334253
+"8911 Florin Rd Sacramento,CA",38.496954,-121.371078
+"4847 Amber Ln Sacramento,CA",38.658112,-121.351072
+"4901 Auburn Blvd Sacramento,CA",38.657309,-121.351385
+"5045 Madison Ave Sacramento,CA",38.660492,-121.348111
+"5289 Auburn Blvd Sacramento,CA",38.66558,-121.342739
+"7996 Bradshaw Rd Sacramento,CA",38.466788,-121.334851
+"7210 Roseville Rd Sacramento,CA",38.697135,-121.335923
+"5000 Folsom Blvd Sacramento,CA",38.560446,-121.444854
+"8391 Folsom Blvd Sacramento,CA",38.548094,-121.393092
+"7960 Gerber Rd Sacramento,CA",38.480626,-121.410441
+"3710 Franklin Blvd Sacramento,CA",38.540398,-121.47669
+"3173 Marysville Blvd Sacramento,CA",38.624754,-121.434279
+"6231 Fruitridge Rd Sacramento,CA",38.52558,-121.431875
+"4775 Rio Linda Blvd Sacramento,CA",38.654091,-121.448383
+"6968 65th St Ste E Sacramento,CA",38.500567,-121.437889
+"7245 East Pkwy Sacramento,CA",38.494722,-121.449862
+"4320 Arden Way Sacramento,CA",38.594758,-121.363551
+"3518 Marconi Ave Sacramento,CA",38.616588,-121.38156
+"7596 Bradshaw Rd Sacramento,CA",38.48186,-121.334838
+"5815 Stockton Blvd Ste B Sacramento,CA",38.521121,-121.4398
+"1540 W El Camino Ave Sacramento,CA",38.611796,-121.496539
+"5880 Stockton Blvd Sacramento,CA",38.520059,-121.440794
+"6418 Stockton Blvd Sacramento,CA",38.509623,-121.43636
+"2700 Marconi Ave Sacramento,CA",38.616914,-121.398996
+"9137 Kiefer Blvd Sacramento,CA",38.548459,-121.360244
+"4321 Madison Ave Ste E Sacramento,CA",38.661539,-121.363168
+"5445 Auburn Blvd Sacramento,CA",38.66884,-121.337837
+"1400 G St Sacramento,CA",38.581852,-121.48636
+"400 Capitol Mall Ste 120 Sacramento,CA",38.578358,-121.502495
+"1830 J St Sacramento,CA",38.576869,-121.481525
+"2108 16th St Sacramento,CA",38.56585,-121.49075
+"1301 Broadway Sacramento,CA",38.562829,-121.496002
+"444 N 3rd St Sacramento,CA",38.598931,-121.49997
+"2500 P St Sacramento,CA",38.568011,-121.475982
+"2600 C St Sacramento,CA",38.58196,-121.46847
+"2800 G St Sacramento,CA",38.576839,-121.467714
+"2736 Muir Way Sacramento,CA",38.559495,-121.505047
+"2800 T St Sacramento,CA",38.562547,-121.473818
+"2703 24th St Sacramento,CA",38.554862,-121.483093
+"2200 Northgate Blvd Sacramento,CA",38.606884,-121.475312
+"1540 W El Camino Ave Sacramento,CA",38.611796,-121.496539
+"4065 McKinley Blvd Sacramento,CA",38.578693,-121.447618
+"750 46th St Sacramento,CA",38.570469,-121.444879
+"2300 Sutterville Rd Ste B Sacramento,CA",38.53888,-121.486705
+"3300 12th Ave Sacramento,CA",38.5409,-121.470825
+"3291 Truxel Rd Ste 18 Sacramento,CA",38.626082,-121.499185
+"4000 12th Ave Sacramento,CA",38.540988,-121.460632
+"3946 Martin Luther King Jr Blvd Sacramento,CA",38.538831,-121.465115
+"4604 Franklin Blvd Sacramento,CA",38.533147,-121.474546
+"5485 Carlson Dr Sacramento,CA",38.572504,-121.432835
+"4011 W Nichols Ave Sacramento,CA",38.538087,-121.459276
+"4330 14th Ave Sacramento,CA",38.539272,-121.45564
+"5069 Freeport Blvd Sacramento,CA",38.527806,-121.496041
+"2700 Marconi Ave Sacramento,CA",38.616914,-121.398996
+"9137 Kiefer Blvd Sacramento,CA",38.548459,-121.360244
+"4321 Madison Ave Ste E Sacramento,CA",38.661539,-121.363168
+"5445 Auburn Blvd Sacramento,CA",38.66884,-121.337837
+"1400 G St Sacramento,CA",38.581852,-121.48636
+"400 Capitol Mall Ste 120 Sacramento,CA",38.578358,-121.502495
+"1830 J St Sacramento,CA",38.576869,-121.481525
+"2108 16th St Sacramento,CA",38.56585,-121.49075
+"1301 Broadway Sacramento,CA",38.562829,-121.496002
+"444 N 3rd St Sacramento,CA",38.598931,-121.49997
+"2500 P St Sacramento,CA",38.568011,-121.475982
+"2600 C St Sacramento,CA",38.58196,-121.46847
+"2800 G St Sacramento,CA",38.576839,-121.467714
+"2736 Muir Way Sacramento,CA",38.559495,-121.505047
+"2800 T St Sacramento,CA",38.562547,-121.473818
+"2703 24th St Sacramento,CA",38.554862,-121.483093
+"2200 Northgate Blvd Sacramento,CA",38.606884,-121.475312
+"1540 W El Camino Ave Sacramento,CA",38.611796,-121.496539
+"4065 McKinley Blvd Sacramento,CA",38.578693,-121.447618
+"750 46th St Sacramento,CA",38.570469,-121.444879
+"2300 Sutterville Rd Ste B Sacramento,CA",38.53888,-121.486705
+"3300 12th Ave Sacramento,CA",38.5409,-121.470825
+"3291 Truxel Rd Ste 18 Sacramento,CA",38.626082,-121.499185
+"4000 12th Ave Sacramento,CA",38.540988,-121.460632
+"3946 Martin Luther King Jr Blvd Sacramento,CA",38.538831,-121.465115
+"4604 Franklin Blvd Sacramento,CA",38.533147,-121.474546
+"5485 Carlson Dr Sacramento,CA",38.572504,-121.432835
+"4011 W Nichols Ave Sacramento,CA",38.538087,-121.459276
+"4330 14th Ave Sacramento,CA",38.539272,-121.45564
+"5069 Freeport Blvd Sacramento,CA",38.527806,-121.496041
+"4614 Martin Luther King Jr Blvd Sacramento,CA",38.53296,-121.464989
+"4160 Stockton Blvd Sacramento,CA",38.537218,-121.448529
+"3900 Fruitridge Rd Sacramento,CA",38.524439,-121.463236
+"5830 Franklin Blvd Sacramento,CA",38.520659,-121.470772
+"5960 Freeport Blvd Sacramento,CA",38.517395,-121.500082
+"4940 Stockton Blvd Sacramento,CA",38.530702,-121.445873
+"5610 44th St Sacramento,CA",38.524344,-121.455751
+"5200 Stockton Blvd Ste 135 Sacramento,CA",38.527633,-121.445316
+"6035 Franklin Blvd Sacramento,CA",38.516515,-121.468739
+"3250 Arena Blvd Sacramento,CA",38.642102,-121.533432
+"1725 Bell St Sacramento,CA",38.59701,-121.411135
+"3736 Marysville Blvd Sacramento,CA",38.636011,-121.429513
+"861 Fulton Ave Sacramento,CA",38.581226,-121.401875
+"1340 Fulton Ave Sacramento,CA",38.590214,-121.400596
+"6021 Stockton Blvd Sacramento,CA",38.516885,-121.438014
+"6105 Stockton Blvd Sacramento,CA",38.515571,-121.437481
+"6701 Franklin Blvd Sacramento,CA",38.504872,-121.463376
+"350 Florin Rd Sacramento,CA",38.508014,-121.541682
+"3100 Arden Way Sacramento,CA",38.595601,-121.391857
+"2338 Florin Rd Sacramento,CA",38.495693,-121.48432
+"6545 Stockton Blvd Sacramento,CA",38.507443,-121.43374
+"7924 Fruitridge Rd Sacramento,CA",38.524715,-121.41064
+"5650 Power Inn Rd Sacramento,CA",38.524251,-121.409825
+"3841 Snelling Ln Sacramento,CA",38.661572,-121.548771
+"7025 Elder Creek Rd Sacramento,CA",38.510818,-121.422139
+"1745 Watt Ave Sacramento,CA",38.597355,-121.383526
+"6968 65th St Sacramento,CA",38.500567,-121.437889
+"3040 Auburn Blvd Sacramento,CA",38.633112,-121.392546
+"7601 Amherst St Sacramento,CA",38.481061,-121.500967
+"6618 Florin Rd Ste B Sacramento,CA",38.495297,-121.425544
+"4614 Martin Luther King Jr Blvd Sacramento,CA",38.53296,-121.464989
+"4160 Stockton Blvd Sacramento,CA",38.537218,-121.448529
+"3900 Fruitridge Rd Sacramento,CA",38.524439,-121.463236
+"5830 Franklin Blvd Sacramento,CA",38.520659,-121.470772
+"5960 Freeport Blvd Sacramento,CA",38.517395,-121.500082
+"4940 Stockton Blvd Sacramento,CA",38.530702,-121.445873
+"5610 44th St Sacramento,CA",38.524344,-121.455751
+"5200 Stockton Blvd Ste 135 Sacramento,CA",38.527633,-121.445316
+"6035 Franklin Blvd Sacramento,CA",38.516515,-121.468739
+"3250 Arena Blvd Sacramento,CA",38.642102,-121.533432
+"1725 Bell St Sacramento,CA",38.59701,-121.411135
+"3736 Marysville Blvd Sacramento,CA",38.636011,-121.429513
+"861 Fulton Ave Sacramento,CA",38.581226,-121.401875
+"1340 Fulton Ave Sacramento,CA",38.590214,-121.400596
+"6021 Stockton Blvd Sacramento,CA",38.516885,-121.438014
+"6105 Stockton Blvd Sacramento,CA",38.515571,-121.437481
+"6701 Franklin Blvd Sacramento,CA",38.504872,-121.463376
+"350 Florin Rd Sacramento,CA",38.508014,-121.541682
+"3100 Arden Way Sacramento,CA",38.595601,-121.391857
+"2338 Florin Rd Sacramento,CA",38.495693,-121.48432
+"6545 Stockton Blvd Sacramento,CA",38.507443,-121.43374
+"7924 Fruitridge Rd Sacramento,CA",38.524715,-121.41064
+"5650 Power Inn Rd Sacramento,CA",38.524251,-121.409825
+"3841 Snelling Ln Sacramento,CA",38.661572,-121.548771
+"7025 Elder Creek Rd Sacramento,CA",38.510818,-121.422139
+"1745 Watt Ave Sacramento,CA",38.597355,-121.383526
+"6968 65th St Sacramento,CA",38.500567,-121.437889
+"3040 Auburn Blvd Sacramento,CA",38.633112,-121.392546
+"7601 Amherst St Sacramento,CA",38.481061,-121.500967
+"6618 Florin Rd Ste B Sacramento,CA",38.495297,-121.425544
+"3841 Snelling Ln Sacramento,CA",38.661572,-121.548771
+"7386 Stockton Blvd Sacramento,CA",38.489864,-121.426696
+"7454 Stockton Blvd Sacramento,CA",38.486748,-121.425473
+"3704 Auburn Blvd Sacramento,CA",38.639024,-121.378142
+"3805 Pasadena Ave Sacramento,CA",38.639491,-121.374708
+"3625 S Port Dr Sacramento,CA",38.546593,-121.361921
+"8484 Florin Rd Ste 70 Sacramento,CA",38.495439,-121.391192
+"6660 Valley Hi Dr Sacramento,CA",38.472625,-121.426103
+"7500 Elsie Ave Ste 107 Sacramento,CA",38.473816,-121.416158
+"7728 Wilbur Way Sacramento,CA",38.477167,-121.398057
+"5363 Auburn Blvd Sacramento,CA",38.667775,-121.338974
+"2300 Sutterville Rd Ste B Sacramento,CA",38.53888,-121.486705
+"3291 Truxel Rd Ste 18 Sacramento,CA",38.626082,-121.499185
+"1725 Bell St Sacramento,CA",38.59701,-121.411135
+"2338 Florin Rd Sacramento,CA",38.495693,-121.48432
+"4445 Auburn Blvd Sacramento,CA",38.648463,-121.360532
+"9137 Kiefer Blvd Sacramento,CA",38.548459,-121.360244
+"8101 Freeport Blvd Sacramento,CA",38.461862,-121.501657
+"7100 Fruitridge Rd Sacramento,CA",38.524496,-121.421053
+"5530 Sky Pkwy Sacramento,CA",38.502073,-121.436717
+"7223 Florin Mall Dr Sacramento,CA",38.494618,-121.433714
+"5810 Folsom Blvd Sacramento,CA",38.557113,-121.436301
+"2612 J Street, #1 Sacramento,CA",38.574174,-121.471394
+"2531 J St Sacramento,CA",38.574814,-121.471998
+"5220 Fruitridge Rd Sacramento,CA",38.524568,-121.445299
+"2868 Northgate Blvd Sacramento,CA",38.617169,-121.475207
+"4055 McKinley Blvd Sacramento,CA",38.578602,-121.447745
+"3431 Watt Ave Sacramento,CA",38.62785,-121.383888
+"2330 N St Sacramento,CA",38.570651,-121.476746
+"2355 Florin Rd Sacramento,CA",38.497437,-121.483461
+"3841 Snelling Ln Sacramento,CA",38.661572,-121.548771
+"7386 Stockton Blvd Sacramento,CA",38.489864,-121.426696
+"7454 Stockton Blvd Sacramento,CA",38.486748,-121.425473
+"3704 Auburn Blvd Sacramento,CA",38.639024,-121.378142
+"3805 Pasadena Ave Sacramento,CA",38.639491,-121.374708
+"3625 S Port Dr Sacramento,CA",38.546593,-121.361921
+"8484 Florin Rd Ste 70 Sacramento,CA",38.495439,-121.391192
+"6660 Valley Hi Dr Sacramento,CA",38.472625,-121.426103
+"7500 Elsie Ave Ste 107 Sacramento,CA",38.473816,-121.416158
+"7728 Wilbur Way Sacramento,CA",38.477167,-121.398057
+"5363 Auburn Blvd Sacramento,CA",38.667775,-121.338974
+"2300 Sutterville Rd Ste B Sacramento,CA",38.53888,-121.486705
+"3291 Truxel Rd Ste 18 Sacramento,CA",38.626082,-121.499185
+"1725 Bell St Sacramento,CA",38.59701,-121.411135
+"2338 Florin Rd Sacramento,CA",38.495693,-121.48432
+"4445 Auburn Blvd Sacramento,CA",38.648463,-121.360532
+"9137 Kiefer Blvd Sacramento,CA",38.548459,-121.360244
+"8101 Freeport Blvd Sacramento,CA",38.461862,-121.501657
+"7100 Fruitridge Rd Sacramento,CA",38.524496,-121.421053
+"5530 Sky Pkwy Sacramento,CA",38.502073,-121.436717
+"7223 Florin Mall Dr Sacramento,CA",38.494618,-121.433714
+"5810 Folsom Blvd Sacramento,CA",38.557113,-121.436301
+"2612 J Street, #1 Sacramento,CA",38.574174,-121.471394
+"2531 J St Sacramento,CA",38.574814,-121.471998
+"5220 Fruitridge Rd Sacramento,CA",38.524568,-121.445299
+"2868 Northgate Blvd Sacramento,CA",38.617169,-121.475207
+"4055 McKinley Blvd Sacramento,CA",38.578602,-121.447745
+"3431 Watt Ave Sacramento,CA",38.62785,-121.383888
+"2330 N St Sacramento,CA",38.570651,-121.476746
+"2355 Florin Rd Sacramento,CA",38.497437,-121.483461
+"1301 Florin Rd Sacramento,CA",38.496602,-121.510262
+"2331 I St Sacramento,CA",38.576604,-121.47415
+"7117 Walerga Rd Ste 5 Sacramento,CA",38.695916,-121.364142
+"2103 P St Sacramento,CA",38.569799,-121.481015
+"2313 Northgate Blvd Sacramento,CA",38.608797,-121.475593
+"2690 Northgate Blvd Sacramento,CA",38.613577,-121.475183
+"1826 Fulton Ave Sacramento,CA",38.598942,-121.401025
+"6701 Franklin Blvd Sacramento,CA",38.504872,-121.463376
+"7591 24th St Sacramento,CA",38.482162,-121.479915
+"3025 Academy Way Sacramento,CA",38.623024,-121.424796
+"1701 T St Sacramento,CA",38.566866,-121.488416
+"3280 Northgate Blvd Sacramento,CA",38.626456,-121.474685
+"401 W El Camino Ave Sacramento,CA",38.61143,-121.471958
+"2533 Del Paso Blvd Sacramento,CA",38.613326,-121.446451
+"2800 Rio Linda Blvd Sacramento,CA",38.618579,-121.445908
+"3041 Rio Linda Blvd Sacramento,CA",38.622946,-121.446533
+"1530 Auburn Blvd Sacramento,CA",38.61377,-121.431451
+"2140 Grand Ave Sacramento,CA",38.636437,-121.41645
+"5601 Wilkinson St Sacramento,CA",38.524763,-121.414032
+"6945 Stockton Blvd Sacramento,CA",38.499163,-121.429921
+"8164 Florin Rd Sacramento,CA",38.4956,-121.406001
+"701 19th St Sacramento,CA",38.580129,-121.479606
+"2005 11th St Sacramento,CA",38.568607,-121.496776
+"2684 18th St Sacramento,CA",38.557179,-121.491547
+"2694 Northgate Blvd Sacramento,CA",38.613609,-121.475227
+"1811 Del Paso Blvd Sacramento,CA",38.60856,-121.45466
+"739 Arden Way Sacramento,CA",38.606817,-121.449848
+"2511 Rio Linda Blvd Sacramento,CA",38.613483,-121.448212
+"1010 El Camino Ave Sacramento,CA",38.610543,-121.443268
+"5040 Franklin Blvd Sacramento,CA",38.529437,-121.473837
+"1301 Florin Rd Sacramento,CA",38.496602,-121.510262
+"2331 I St Sacramento,CA",38.576604,-121.47415
+"7117 Walerga Rd Ste 5 Sacramento,CA",38.695916,-121.364142
+"2103 P St Sacramento,CA",38.569799,-121.481015
+"2313 Northgate Blvd Sacramento,CA",38.608797,-121.475593
+"2690 Northgate Blvd Sacramento,CA",38.613577,-121.475183
+"1826 Fulton Ave Sacramento,CA",38.598942,-121.401025
+"6701 Franklin Blvd Sacramento,CA",38.504872,-121.463376
+"7591 24th St Sacramento,CA",38.482162,-121.479915
+"3025 Academy Way Sacramento,CA",38.623024,-121.424796
+"1701 T St Sacramento,CA",38.566866,-121.488416
+"3280 Northgate Blvd Sacramento,CA",38.626456,-121.474685
+"401 W El Camino Ave Sacramento,CA",38.61143,-121.471958
+"2533 Del Paso Blvd Sacramento,CA",38.613326,-121.446451
+"2800 Rio Linda Blvd Sacramento,CA",38.618579,-121.445908
+"3041 Rio Linda Blvd Sacramento,CA",38.622946,-121.446533
+"1530 Auburn Blvd Sacramento,CA",38.61377,-121.431451
+"2140 Grand Ave Sacramento,CA",38.636437,-121.41645
+"5601 Wilkinson St Sacramento,CA",38.524763,-121.414032
+"6945 Stockton Blvd Sacramento,CA",38.499163,-121.429921
+"8164 Florin Rd Sacramento,CA",38.4956,-121.406001
+"701 19th St Sacramento,CA",38.580129,-121.479606
+"2005 11th St Sacramento,CA",38.568607,-121.496776
+"2684 18th St Sacramento,CA",38.557179,-121.491547
+"2694 Northgate Blvd Sacramento,CA",38.613609,-121.475227
+"1811 Del Paso Blvd Sacramento,CA",38.60856,-121.45466
+"739 Arden Way Sacramento,CA",38.606817,-121.449848
+"2511 Rio Linda Blvd Sacramento,CA",38.613483,-121.448212
+"1010 El Camino Ave Sacramento,CA",38.610543,-121.443268
+"5040 Franklin Blvd Sacramento,CA",38.529437,-121.473837
+"1301 Florin Rd Sacramento,CA",38.496602,-121.510262
+"2533 Edison Ave Sacramento,CA",38.62704,-121.402534
+"7076 Bowling Dr Sacramento,CA",38.498262,-121.456228
+"2365 North Ave Sacramento,CA",38.640175,-121.4112
+"6685 Stockton Blvd Sacramento,CA",38.505421,-121.432904
+"5530 Sky Pkwy Sacramento,CA",38.502073,-121.436717
+"3407 El Camino Ave Sacramento,CA",38.610715,-121.384934
+"7298 Franklin Blvd Sacramento,CA",38.492388,-121.458207
+"6945 Stockton Blvd Sacramento,CA",38.499163,-121.429921
+"3431 Watt Ave Sacramento,CA",38.62785,-121.383888
+"7870 Florin Rd Sacramento,CA",38.495207,-121.411441
+"4224 Marconi Ave Sacramento,CA",38.617289,-121.36499
+"8164 Florin Rd Sacramento,CA",38.4956,-121.406001
+"9408 Kiefer Blvd # 1 Sacramento,CA",38.546604,-121.348538
+"7117 Walerga Rd Ste 5 Sacramento,CA",38.695916,-121.364142
+"5203 Elkhorn Blvd Sacramento,CA",38.687497,-121.34304
+"3320 Arden Way Sacramento,CA",38.594444,-121.386648
+"6640 Valley Hi Dr Sacramento,CA",38.472477,-121.42617
+"5345 Elkhorn Blvd Sacramento,CA",38.686538,-121.339536
+"1500 K St Sacramento,CA",38.576959,-121.486833
+"2900 Freeport Blvd Sacramento,CA",38.551847,-121.488926
+"4820 Madison Ave Sacramento,CA",38.660515,-121.351516
+"2565 Fair Oaks Blvd Sacramento,CA",38.574433,-121.402123
+"5821 Antelope Rd Sacramento,CA",38.704178,-121.331919
+"1701 C St Sacramento,CA",38.58591,-121.480424
+"1814 19th St Sacramento,CA",38.567982,-121.486028
+"1424 24th Street Sacramento,CA",38.570149,-121.477087
+"1025 Alhambra Blvd Sacramento,CA",38.571608,-121.464629
+"3480 Fair Oaks Blvd Sacramento,CA",38.573584,-121.383613
+"8377 Elk Grove Florin Rd Sacramento,CA",38.453366,-121.370026
+"1301 Florin Rd Sacramento,CA",38.496602,-121.510262
+"2533 Edison Ave Sacramento,CA",38.62704,-121.402534
+"7076 Bowling Dr Sacramento,CA",38.498262,-121.456228
+"2365 North Ave Sacramento,CA",38.640175,-121.4112
+"6685 Stockton Blvd Sacramento,CA",38.505421,-121.432904
+"5530 Sky Pkwy Sacramento,CA",38.502073,-121.436717
+"3407 El Camino Ave Sacramento,CA",38.610715,-121.384934
+"7298 Franklin Blvd Sacramento,CA",38.492388,-121.458207
+"6945 Stockton Blvd Sacramento,CA",38.499163,-121.429921
+"3431 Watt Ave Sacramento,CA",38.62785,-121.383888
+"7870 Florin Rd Sacramento,CA",38.495207,-121.411441
+"4224 Marconi Ave Sacramento,CA",38.617289,-121.36499
+"8164 Florin Rd Sacramento,CA",38.4956,-121.406001
+"9408 Kiefer Blvd # 1 Sacramento,CA",38.546604,-121.348538
+"7117 Walerga Rd Ste 5 Sacramento,CA",38.695916,-121.364142
+"5203 Elkhorn Blvd Sacramento,CA",38.687497,-121.34304
+"3320 Arden Way Sacramento,CA",38.594444,-121.386648
+"6640 Valley Hi Dr Sacramento,CA",38.472477,-121.42617
+"5345 Elkhorn Blvd Sacramento,CA",38.686538,-121.339536
+"1500 K St Sacramento,CA",38.576959,-121.486833
+"2900 Freeport Blvd Sacramento,CA",38.551847,-121.488926
+"4820 Madison Ave Sacramento,CA",38.660515,-121.351516
+"2565 Fair Oaks Blvd Sacramento,CA",38.574433,-121.402123
+"5821 Antelope Rd Sacramento,CA",38.704178,-121.331919
+"1701 C St Sacramento,CA",38.58591,-121.480424
+"1814 19th St Sacramento,CA",38.567982,-121.486028
+"1424 24th Street Sacramento,CA",38.570149,-121.477087
+"1025 Alhambra Blvd Sacramento,CA",38.571608,-121.464629
+"3480 Fair Oaks Blvd Sacramento,CA",38.573584,-121.383613
+"8377 Elk Grove Florin Rd Sacramento,CA",38.453366,-121.370026
+"1607 F St Sacramento,CA",38.582742,-121.482566
+"6580 Belleau Wood Ln Sacramento,CA",38.507532,-121.505173
+"4320 Arden Way Sacramento,CA",38.594758,-121.363551
+"6051 Florin Rd Sacramento,CA",38.499403,-121.433575
+"2851 Del Paso Rd Sacramento,CA",38.657598,-121.524665
+"2700 Marconi Ave Sacramento,CA",38.616914,-121.398996
+"6181 Mack Rd Sacramento,CA",38.475616,-121.429665
+"3291 Truxel Rd Sacramento,CA",38.626082,-121.499185
+"8250 Power Inn Road Sacramento,CA",38.458273,-121.407522
+"3460 El Camino Ave Sacramento,CA",38.6089,-121.384157
+"2605 El Paseo Ln Sacramento,CA",38.619281,-121.40081
+"1802 C St Sacramento,CA",38.58438,-121.479909
+"3031 P St Sacramento,CA",38.56666,-121.468449
+"2431 28th St Sacramento,CA",38.557794,-121.475352
+"3315 Northgate Blvd Sacramento,CA",38.628276,-121.477176
+"2276 Murieta Way Sacramento,CA",38.527137,-121.486236
+"6340 Stockton Blvd Sacramento,CA",38.511698,-121.437243
+"7205 Freeport Blvd Sacramento,CA",38.494379,-121.504731
+"4420 Florin Rd Sacramento,CA",38.494327,-121.454666
+"8301 Fruitridge Rd Sacramento,CA",38.526684,-121.396382
+"5915 Gerber Rd Sacramento,CA",38.481658,-121.421446
+"8915 Gerber Rd Sacramento,CA",38.482677,-121.369026
+"921 K St Sacramento,CA",38.579607,-121.494334
+"1231 I St Sacramento,CA",38.580621,-121.488982
+"1101 Richards Blvd Sacramento,CA",38.595526,-121.484872
+"222 Jibboom St Sacramento,CA",38.596206,-121.506019
+"2401 16th St Sacramento,CA",38.562331,-121.491538
+"730 29th St Sacramento,CA",38.576098,-121.467266
+"2828 Q St Sacramento,CA",38.565475,-121.471709
+"3100 Broadway Sacramento,CA",38.555524,-121.472339
+"1607 F St Sacramento,CA",38.582742,-121.482566
+"6580 Belleau Wood Ln Sacramento,CA",38.507532,-121.505173
+"4320 Arden Way Sacramento,CA",38.594758,-121.363551
+"6051 Florin Rd Sacramento,CA",38.499403,-121.433575
+"2851 Del Paso Rd Sacramento,CA",38.657598,-121.524665
+"2700 Marconi Ave Sacramento,CA",38.616914,-121.398996
+"6181 Mack Rd Sacramento,CA",38.475616,-121.429665
+"3291 Truxel Rd Sacramento,CA",38.626082,-121.499185
+"8250 Power Inn Road Sacramento,CA",38.458273,-121.407522
+"3460 El Camino Ave Sacramento,CA",38.6089,-121.384157
+"2605 El Paseo Ln Sacramento,CA",38.619281,-121.40081
+"1802 C St Sacramento,CA",38.58438,-121.479909
+"3031 P St Sacramento,CA",38.56666,-121.468449
+"2431 28th St Sacramento,CA",38.557794,-121.475352
+"3315 Northgate Blvd Sacramento,CA",38.628276,-121.477176
+"2276 Murieta Way Sacramento,CA",38.527137,-121.486236
+"6340 Stockton Blvd Sacramento,CA",38.511698,-121.437243
+"7205 Freeport Blvd Sacramento,CA",38.494379,-121.504731
+"4420 Florin Rd Sacramento,CA",38.494327,-121.454666
+"8301 Fruitridge Rd Sacramento,CA",38.526684,-121.396382
+"5915 Gerber Rd Sacramento,CA",38.481658,-121.421446
+"8915 Gerber Rd Sacramento,CA",38.482677,-121.369026
+"921 K St Sacramento,CA",38.579607,-121.494334
+"1231 I St Sacramento,CA",38.580621,-121.488982
+"1101 Richards Blvd Sacramento,CA",38.595526,-121.484872
+"222 Jibboom St Sacramento,CA",38.596206,-121.506019
+"2401 16th St Sacramento,CA",38.562331,-121.491538
+"730 29th St Sacramento,CA",38.576098,-121.467266
+"2828 Q St Sacramento,CA",38.565475,-121.471709
+"3530 33rd Ave Sacramento,CA",38.522136,-121.468289
+"3681 33rd Ave Ste C Sacramento,CA",38.522954,-121.467347
+"230 Harris Ave Ste 20 Sacramento,CA",38.638188,-121.460723
+"1810 Ethan Way Sacramento,CA",38.598523,-121.419486
+"5824 Franklin Blvd Sacramento,CA",38.520577,-121.471369
+"5824 Franklin Blvd Sacramento,CA",38.520577,-121.471369
+"2933 65th St Sacramento,CA",38.547997,-121.427422
+"2200 Fair Oaks Blvd Sacramento,CA",38.573857,-121.414615
+"5960 24th St Sacramento,CA",38.51593,-121.483642
+"811 Grand Ave Sacramento,CA",38.63711,-121.44664
+"2101 El Camino Ave Sacramento,CA",38.611157,-121.417283
+"20 Golden Land Ct Sacramento,CA",38.651207,-121.503711
+"5278 Fruitridge Rd Sacramento,CA",38.524949,-121.444425
+"2414 Howe Ave Sacramento,CA",38.60975,-121.414715
+"6201 Franklin Blvd Sacramento,CA",38.513716,-121.467489
+"5621 Stockton Blvd Sacramento,CA",38.524529,-121.44164
+"6235 Franklin Blvd Sacramento,CA",38.512868,-121.467532
+"3621 Marysville Blvd Sacramento,CA",38.633832,-121.430639
+"3120 Ramona Ave Sacramento,CA",38.546776,-121.415685
+"3701 Willow St Sacramento,CA",38.634964,-121.429751
+"6421 Martin Luther King Jr Blvd Ste 103 Sacramento,CA",38.50956,-121.464081
+"1560 Grand Ave Sacramento,CA",38.636248,-121.430335
+"861 Fulton Ave Sacramento,CA",38.581226,-121.401875
+"2600 Fair Oaks Blvd Sacramento,CA",38.573839,-121.40105
+"1537 Fulton Ave Sacramento,CA",38.593516,-121.402064
+"3845 Marysville Blvd Sacramento,CA",38.637561,-121.430189
+"4411 47th Ave Sacramento,CA",38.510736,-121.454807
+"6035 Stockton Blvd Sacramento,CA",38.516506,-121.438004
+"2921 Fulton Ave Sacramento,CA",38.618906,-121.402157
+"7031 S Land Park Dr Sacramento,CA",38.497463,-121.509622
+"8321 Folsom Blvd Sacramento,CA",38.547541,-121.399318
+"3106 Fulton Ave Sacramento,CA",38.62187,-121.401438
+"4300 82nd St, Ste K Sacramento,CA",38.535976,-121.404891
+"3811 Florin Rd Sacramento,CA",38.496853,-121.461651
+"5580 Power Inn Rd Ste A Sacramento,CA",38.525865,-121.409963
+"3501 Fair Oaks Blvd Sacramento,CA",38.574416,-121.38246
+"7260 Franklin Blvd Sacramento,CA",38.493678,-121.460579
+"1726 Watt Ave Sacramento,CA",38.596306,-121.382902
+"6968 65th St Sacramento,CA",38.500567,-121.437889
+"7298 Franklin Blvd Sacramento,CA",38.492388,-121.458207
+"8722 La Riviera Dr Sacramento,CA",38.563937,-121.379924
+"3036 Auburn Blvd Sacramento,CA",38.63334,-121.392912
+"4400 Florin Perkins Rd Sacramento,CA",38.535543,-121.392847
+"8311 Siena Ave Sacramento,CA",38.455629,-121.369106
+"7478 Stockton Blvd # 103 Sacramento,CA",38.485769,-121.42497
+"9180 Kiefer Blvd Sacramento,CA",38.546763,-121.358825
+"7601 Stockton Blvd # 8 Sacramento,CA",38.481245,-121.421478
+"6500 Mack Rd Sacramento,CA",38.473606,-121.426572
+"7837 Stockton Blvd Sacramento,CA",38.473186,-121.417794
+"5315 Ehrhardt Ave Sacramento,CA",38.459573,-121.440475
+"2847 Bradshaw Rd Sacramento,CA",38.573806,-121.336315
+"1560 Grand Ave Sacramento,CA",38.636248,-121.430335
+"861 Fulton Ave Sacramento,CA",38.581226,-121.401875
+"2600 Fair Oaks Blvd Sacramento,CA",38.573839,-121.40105
+"1537 Fulton Ave Sacramento,CA",38.593516,-121.402064
+"3845 Marysville Blvd Sacramento,CA",38.637561,-121.430189
+"4411 47th Ave Sacramento,CA",38.510736,-121.454807
+"6035 Stockton Blvd Sacramento,CA",38.516506,-121.438004
+"2921 Fulton Ave Sacramento,CA",38.618906,-121.402157
+"7031 S Land Park Dr Sacramento,CA",38.497463,-121.509622
+"8321 Folsom Blvd Sacramento,CA",38.547541,-121.399318
+"3106 Fulton Ave Sacramento,CA",38.62187,-121.401438
+"4300 82nd St, Ste K Sacramento,CA",38.535976,-121.404891
+"3811 Florin Rd Sacramento,CA",38.496853,-121.461651
+"5580 Power Inn Rd Ste A Sacramento,CA",38.525865,-121.409963
+"3501 Fair Oaks Blvd Sacramento,CA",38.574416,-121.38246
+"7260 Franklin Blvd Sacramento,CA",38.493678,-121.460579
+"1726 Watt Ave Sacramento,CA",38.596306,-121.382902
+"6968 65th St Sacramento,CA",38.500567,-121.437889
+"7298 Franklin Blvd Sacramento,CA",38.492388,-121.458207
+"8722 La Riviera Dr Sacramento,CA",38.563937,-121.379924
+"3036 Auburn Blvd Sacramento,CA",38.63334,-121.392912
+"4400 Florin Perkins Rd Sacramento,CA",38.535543,-121.392847
+"8311 Siena Ave Sacramento,CA",38.455629,-121.369106
+"7478 Stockton Blvd # 103 Sacramento,CA",38.485769,-121.42497
+"9180 Kiefer Blvd Sacramento,CA",38.546763,-121.358825
+"7601 Stockton Blvd # 8 Sacramento,CA",38.481245,-121.421478
+"6500 Mack Rd Sacramento,CA",38.473606,-121.426572
+"7837 Stockton Blvd Sacramento,CA",38.473186,-121.417794
+"5315 Ehrhardt Ave Sacramento,CA",38.459573,-121.440475
+"2847 Bradshaw Rd Sacramento,CA",38.573806,-121.336315
+"5222 Hillsdale Blvd Ste 6 Sacramento,CA",38.662039,-121.36387
+"4633 Auburn Blvd Sacramento,CA",38.653157,-121.355953
+"9791 Lincoln Village Dr Ste E Sacramento,CA",38.562218,-121.331491
+"5675 Hillsdale Blvd # 3 Sacramento,CA",38.671377,-121.359099
+"5731 Hillsdale Blvd Sacramento,CA",38.67262,-121.358474
+"8055 Elk Grove Florin Rd Ste C Sacramento,CA",38.465048,-121.371129
+"7137 Walerga Rd Ste 1 Sacramento,CA",38.696696,-121.364127
+"3360 El Camino Ave. Sacramento,CA",38.607622,-121.386306
+"7465 Rush River Dr Sacramento,CA",38.48652,-121.534872
+"3860 Florin Rd Sacramento,CA",38.494787,-121.46109
+"1734 Watt Ave Sacramento,CA",38.596978,-121.381341
+"2130 51st St Sacramento,CA",38.553728,-121.446043
+"5776 Broadway Sacramento,CA",38.546394,-121.438565
+"2538 Cottage Way Sacramento,CA",38.603154,-121.402914
+"3060 Martin Luther King Jr Blvd Sacramento,CA",38.546613,-121.464903
+"3661 Truxel Rd Sacramento,CA",38.635568,-121.505916
+"904 J St Sacramento,CA",38.580382,-121.49461
+"2620 T St Sacramento,CA",38.563137,-121.475864
+"1050 Howe Ave Sacramento,CA",38.584551,-121.414763
+"6351 Franklin Blvd Sacramento,CA",38.510634,-121.466706
+"1341 Fulton Ave Sacramento,CA",38.590145,-121.402344
+"5451 Warehouse Way Sacramento,CA",38.530092,-121.38756
+"9015 Folsom Blvd Sacramento,CA",38.557416,-121.367411
+"8275 Florin Rd Sacramento,CA",38.49631,-121.400146
+"8111 Scottsdale Dr # A Sacramento,CA",38.488345,-121.408175
+"6051 Mack Rd Ste A Sacramento,CA",38.476088,-121.431465
+"3336 Bradshaw Rd Ste 260 Sacramento,CA",38.562657,-121.336957
+"9791 Lincoln Village Dr Sacramento,CA",38.562218,-121.331491
+"5222 Hillsdale Blvd Ste 6 Sacramento,CA",38.662039,-121.36387
+"4633 Auburn Blvd Sacramento,CA",38.653157,-121.355953
+"9791 Lincoln Village Dr Ste E Sacramento,CA",38.562218,-121.331491
+"5675 Hillsdale Blvd # 3 Sacramento,CA",38.671377,-121.359099
+"5731 Hillsdale Blvd Sacramento,CA",38.67262,-121.358474
+"8055 Elk Grove Florin Rd Ste C Sacramento,CA",38.465048,-121.371129
+"7137 Walerga Rd Ste 1 Sacramento,CA",38.696696,-121.364127
+"3360 El Camino Ave. Sacramento,CA",38.607622,-121.386306
+"7465 Rush River Dr Sacramento,CA",38.48652,-121.534872
+"3860 Florin Rd Sacramento,CA",38.494787,-121.46109
+"1734 Watt Ave Sacramento,CA",38.596978,-121.381341
+"2130 51st St Sacramento,CA",38.553728,-121.446043
+"5776 Broadway Sacramento,CA",38.546394,-121.438565
+"2538 Cottage Way Sacramento,CA",38.603154,-121.402914
+"3060 Martin Luther King Jr Blvd Sacramento,CA",38.546613,-121.464903
+"3661 Truxel Rd Sacramento,CA",38.635568,-121.505916
+"904 J St Sacramento,CA",38.580382,-121.49461
+"2620 T St Sacramento,CA",38.563137,-121.475864
+"1050 Howe Ave Sacramento,CA",38.584551,-121.414763
+"6351 Franklin Blvd Sacramento,CA",38.510634,-121.466706
+"1341 Fulton Ave Sacramento,CA",38.590145,-121.402344
+"5451 Warehouse Way Sacramento,CA",38.530092,-121.38756
+"9015 Folsom Blvd Sacramento,CA",38.557416,-121.367411
+"8275 Florin Rd Sacramento,CA",38.49631,-121.400146
+"8111 Scottsdale Dr # A Sacramento,CA",38.488345,-121.408175
+"6051 Mack Rd Ste A Sacramento,CA",38.476088,-121.431465
+"3336 Bradshaw Rd Ste 260 Sacramento,CA",38.562657,-121.336957
+"9791 Lincoln Village Dr Sacramento,CA",38.562218,-121.331491
+"5219 Elkhorn Blvd Sacramento,CA",38.688473,-121.34255
+"3347 El Camino Ave Sacramento,CA",38.611052,-121.385711
+"2830 Franklin Blvd Sacramento,CA",38.55235,-121.476146
+"3016 Northgate Blvd Sacramento,CA",38.620131,-121.474936
+"5637 Mack Rd Sacramento,CA",38.475092,-121.436336
+"612 Jefferson Blvd Sacramento,CA",38.581954,-121.527202
+"500 W Capitol Ave Sacramento,CA",38.583003,-121.514606
+"1601 W Capitol Ave Sacramento,CA",38.579769,-121.529166
+"1638 W Capitol Ave Sacramento,CA",38.580689,-121.529845
+"500 W Capitol Ave Sacramento,CA",38.583003,-121.514606
+"316 6th St Ste B Sacramento,CA",38.588442,-121.514284
+"940 Sacramento Ave Sacramento,CA",38.590215,-121.525425
+"958 Sacramento Ave Sacramento,CA",38.589289,-121.524433
+"330 3rd St Sacramento,CA",38.587591,-121.510607
+"500 C St Sacramento,CA",38.589144,-121.51324
+"316 6th St # B Sacramento,CA",38.588442,-121.514284
+"3049 W Capitol Ave Sacramento,CA",38.579126,-121.550584
+"2216 W Capitol Ave Sacramento,CA",38.580128,-121.538808
+"2216 W Capitol Ave Sacramento,CA",38.580128,-121.538808
+"2300 W Capitol Ave Sacramento,CA",38.580005,-121.540403
+"1552 Lisbon Ave Sacramento,CA",38.595062,-121.540988
+"2434 W Capitol Ave Sacramento,CA",38.579938,-121.543483
+"3015 W Capitol Ave Sacramento,CA",38.577069,-121.55037
+"5935 Watt Ave Sacramento,CA",38.517498,-121.369809
+"6650 Fair Oaks Blvd Sacramento,CA",38.622159,-121.32816
+"4005 Manzanita Ave Ste 38 Sacramento,CA",38.637721,-121.329668
+"4132 Manzanita Ave Sacramento,CA",38.639499,-121.327123
+"4044 Wayside Ln Ste G Sacramento,CA",38.638276,-121.325056
+"10319 Folsom Blvd Sacramento,CA",38.588253,-121.306945
+"4792 Manzanita Ave Sacramento,CA",38.651746,-121.326536
+"10401 Rockingham Dr # 34 Sacramento,CA",38.574924,-121.303784
+"2225 McGregor Dr Sacramento,CA",38.610866,-121.290076
+"1800 E 8th St Sacramento,CA",38.572222,-121.499973
+"4005 Manzanita Ave Sacramento,CA",38.637721,-121.329668
+"7835 Rio Linda Blvd Sacramento,CA",38.710783,-121.461783
+"7145 Watt Ave Sacramento,CA",38.496532,-121.372149
+"7547 Watt Ave Sacramento,CA",38.703696,-121.383505
+"10154 Coloma Rd Sacramento,CA",38.590981,-121.303036
+"1964 E 8th St Sacramento,CA",38.570415,-121.500746
+"8994 Fair Oaks Blvd Sacramento,CA",38.636257,-121.29322
+"3291 Mather Field Rd Sacramento,CA",38.575347,-121.30385
+"8121 Madison Ave Sacramento,CA",38.660134,-121.333294
+"1335 Merkley Ave Ste B Sacramento,CA",38.579206,-121.525008
+"819 F St Sacramento,CA",38.585348,-121.493437
+"1298 W Capitol Ave Sacramento,CA",38.582774,-121.525398
+"3575 Reed Ave Sacramento,CA",38.590715,-121.561125
+"1520 Sacramento Ave Sacramento,CA",38.590985,-121.538054
+"755 Riverpoint Ct Sacramento,CA",38.587337,-121.550037
+"3575 Reed Ave Sacramento,CA",38.590715,-121.561125
+"2335 Del Monte St Sacramento,CA",38.569007,-121.540543
+"3939 W Capitol Ave Sacramento,CA",38.577483,-121.563501
+"940 Riverside Pkwy Ste 50 Sacramento,CA",38.58809,-121.5699
+"3601 Parkway Pl Sacramento,CA",38.570666,-121.565509
+"910 Riverside Pkwy Sacramento,CA",38.588581,-121.568337
+"2935 Ramco St Sacramento,CA",38.556716,-121.561381
+"3771 Channel Dr Sacramento,CA",38.562713,-121.566256
+"731 Poplar Ave Sacramento,CA",38.580799,-121.533764
+"940 Riverside Pkwy # 30 Sacramento,CA",38.58809,-121.5699
+"4675 Watt Ave Sacramento,CA",38.534943,-121.370901
+"3840 Madison Ave Sacramento,CA",38.66091,-121.374017
+"4631 Watt Ave Sacramento,CA",38.535235,-121.370931
+"3885 Seaport Blvd Sacramento,CA",38.563646,-121.572752
+"1670 Overland Ct Sacramento,CA",38.567098,-121.575524
+"845 Harbor Blvd Sacramento,CA",38.578059,-121.547741
+"1552 Lisbon Ave Sacramento,CA",38.595062,-121.540988
+"3049 W Capitol Ave Sacramento,CA",38.579126,-121.550584
+"3225 W Capitol Ave Sacramento,CA",38.578737,-121.555155
+"2000 Town Center Plaza Sacramento,CA",38.550993,-121.535356
+"430 Elkhorn Blvd Sacramento,CA",38.682332,-121.455538
+"5507 Dudley Blvd Sacramento,CA",38.667465,-121.388756
+"5219 Elkhorn Blvd Sacramento,CA",38.688473,-121.34255
+"3347 El Camino Ave Sacramento,CA",38.611052,-121.385711
+"2830 Franklin Blvd Sacramento,CA",38.55235,-121.476146
+"3016 Northgate Blvd Sacramento,CA",38.620131,-121.474936
+"5637 Mack Rd Sacramento,CA",38.475092,-121.436336
+"612 Jefferson Blvd Sacramento,CA",38.581954,-121.527202
+"500 W Capitol Ave Sacramento,CA",38.583003,-121.514606
+"1601 W Capitol Ave Sacramento,CA",38.579769,-121.529166
+"1638 W Capitol Ave Sacramento,CA",38.580689,-121.529845
+"500 W Capitol Ave Sacramento,CA",38.583003,-121.514606
+"316 6th St Ste B Sacramento,CA",38.588442,-121.514284
+"940 Sacramento Ave Sacramento,CA",38.590215,-121.525425
+"958 Sacramento Ave Sacramento,CA",38.589289,-121.524433
+"330 3rd St Sacramento,CA",38.587591,-121.510607
+"500 C St Sacramento,CA",38.589144,-121.51324
+"316 6th St # B Sacramento,CA",38.588442,-121.514284
+"3049 W Capitol Ave Sacramento,CA",38.579126,-121.550584
+"2216 W Capitol Ave Sacramento,CA",38.580128,-121.538808
+"2216 W Capitol Ave Sacramento,CA",38.580128,-121.538808
+"2300 W Capitol Ave Sacramento,CA",38.580005,-121.540403
+"1552 Lisbon Ave Sacramento,CA",38.595062,-121.540988
+"2434 W Capitol Ave Sacramento,CA",38.579938,-121.543483
+"3015 W Capitol Ave Sacramento,CA",38.577069,-121.55037
+"845 Harbor Blvd Sacramento,CA",38.578059,-121.547741
+"1552 Lisbon Ave Sacramento,CA",38.595062,-121.540988
+"3049 W Capitol Ave Sacramento,CA",38.579126,-121.550584
+"3225 W Capitol Ave Sacramento,CA",38.578737,-121.555155
+"2000 Town Center Plaza Sacramento,CA",38.550993,-121.535356
+"430 Elkhorn Blvd Sacramento,CA",38.682332,-121.455538
+"5507 Dudley Blvd Sacramento,CA",38.667465,-121.388756
+"430 Elkhorn Blvd Sacramento,CA",38.682332,-121.455538
+"416 M St Sacramento,CA",38.690831,-121.456005
+"5008 El Camino Ave Sacramento,CA",38.609754,-121.347538
+"5621 Watt Ave Ste 109 Sacramento,CA",38.51896,-121.369796
+"3880 Seaport Blvd Sacramento,CA",38.56515,-121.573055
+"3925 Seaport Blvd # 10 Sacramento,CA",38.563403,-121.574393
+"5507 Dudley Blvd Sacramento,CA",38.667465,-121.388756
+"3628 Madison Ave Sacramento,CA",38.660264,-121.379094
+"5500 Watt Ave Sacramento,CA",38.667106,-121.38245
+"5747 Watt Ave Sacramento,CA",38.51794,-121.369804
+"5159 Fair Oaks Blvd Sacramento,CA",38.59771,-121.345272
+"3360 Jefferson Blvd Sacramento,CA",38.536021,-121.553389
+"6007 Dry Creek Rd Sacramento,CA",38.676855,-121.438915
+"6401 Rio Linda Blvd Sacramento,CA",38.684437,-121.4575
+"6800 Front St Sacramento,CA",38.691132,-121.449129
+"2349 I St Sacramento,CA",38.576403,-121.474199
+"3401 Acacia St Sacramento,CA",38.652725,-121.500512
+"2424 Mission Ave Sacramento,CA",38.609176,-121.35462
+"6005 Madison Ave Sacramento,CA",38.660134,-121.333294
+"7477 Watt Ave Sacramento,CA",38.702744,-121.384364
+"9045 Fair Oaks Blvd Ste K Sacramento,CA",38.63681,-121.292622
+"4708 Manzanita Ave Sacramento,CA",38.649811,-121.325746
+"8065 Watt Ave Sacramento,CA",38.496188,-121.372147
+"7477 Watt Ave Sacramento,CA",38.702744,-121.384364
+"4840 San Juan Ave Sacramento,CA",38.627284,-121.560107
+"409 Mace Blvd Sacramento,CA",38.515291,-121.424307
+"3643 Elkhorn Blvd Sacramento,CA",38.685363,-121.604206
+"5903 Watt Ave Sacramento,CA",38.517573,-121.369808
+"5935 Watt Ave Sacramento,CA",38.517498,-121.369809
+"6650 Fair Oaks Blvd Sacramento,CA",38.622159,-121.32816
+"430 Elkhorn Blvd Sacramento,CA",38.682332,-121.455538
+"416 M St Sacramento,CA",38.690831,-121.456005
+"5008 El Camino Ave Sacramento,CA",38.609754,-121.347538
+"5621 Watt Ave Ste 109 Sacramento,CA",38.51896,-121.369796
+"3880 Seaport Blvd Sacramento,CA",38.56515,-121.573055
+"3925 Seaport Blvd # 10 Sacramento,CA",38.563403,-121.574393
+"5507 Dudley Blvd Sacramento,CA",38.667465,-121.388756
+"3628 Madison Ave Sacramento,CA",38.660264,-121.379094
+"5500 Watt Ave Sacramento,CA",38.667106,-121.38245
+"5747 Watt Ave Sacramento,CA",38.51794,-121.369804
+"5159 Fair Oaks Blvd Sacramento,CA",38.59771,-121.345272
+"3360 Jefferson Blvd Sacramento,CA",38.536021,-121.553389
+"6007 Dry Creek Rd Sacramento,CA",38.676855,-121.438915
+"6401 Rio Linda Blvd Sacramento,CA",38.684437,-121.4575
+"6800 Front St Sacramento,CA",38.691132,-121.449129
+"2349 I St Sacramento,CA",38.576403,-121.474199
+"3401 Acacia St Sacramento,CA",38.652725,-121.500512
+"2424 Mission Ave Sacramento,CA",38.609176,-121.35462
+"6005 Madison Ave Sacramento,CA",38.660134,-121.333294
+"7477 Watt Ave Sacramento,CA",38.702744,-121.384364
+"9045 Fair Oaks Blvd Ste K Sacramento,CA",38.63681,-121.292622
+"4708 Manzanita Ave Sacramento,CA",38.649811,-121.325746
+"8065 Watt Ave Sacramento,CA",38.496188,-121.372147
+"7477 Watt Ave Sacramento,CA",38.702744,-121.384364
+"4840 San Juan Ave Sacramento,CA",38.627284,-121.560107
+"409 Mace Blvd Sacramento,CA",38.515291,-121.424307
+"3643 Elkhorn Blvd Sacramento,CA",38.685363,-121.604206
+"5903 Watt Ave Sacramento,CA",38.517573,-121.369808
+"5935 Watt Ave Sacramento,CA",38.517498,-121.369809
+"6650 Fair Oaks Blvd Sacramento,CA",38.622159,-121.32816
+"5935 Watt Ave Sacramento,CA",38.517498,-121.369809
+"6650 Fair Oaks Blvd Sacramento,CA",38.622159,-121.32816
+"4005 Manzanita Ave Ste 38 Sacramento,CA",38.637721,-121.329668
+"4132 Manzanita Ave Sacramento,CA",38.639499,-121.327123
+"4044 Wayside Ln Ste G Sacramento,CA",38.638276,-121.325056
+"10319 Folsom Blvd Sacramento,CA",38.588253,-121.306945
+"4792 Manzanita Ave Sacramento,CA",38.651746,-121.326536
+"10401 Rockingham Dr # 34 Sacramento,CA",38.574924,-121.303784
+"2225 McGregor Dr Sacramento,CA",38.610866,-121.290076
+"1800 E 8th St Sacramento,CA",38.572222,-121.499973
+"4005 Manzanita Ave Sacramento,CA",38.637721,-121.329668
+"7835 Rio Linda Blvd Sacramento,CA",38.710783,-121.461783
+"7145 Watt Ave Sacramento,CA",38.496532,-121.372149
+"7547 Watt Ave Sacramento,CA",38.703696,-121.383505
+"10154 Coloma Rd Sacramento,CA",38.590981,-121.303036
+"1964 E 8th St Sacramento,CA",38.570415,-121.500746
+"8994 Fair Oaks Blvd Sacramento,CA",38.636257,-121.29322
+"3291 Mather Field Rd Sacramento,CA",38.575347,-121.30385
+"8121 Madison Ave Sacramento,CA",38.660134,-121.333294
+"1335 Merkley Ave Ste B Sacramento,CA",38.579206,-121.525008
+"819 F St Sacramento,CA",38.585348,-121.493437
+"1298 W Capitol Ave Sacramento,CA",38.582774,-121.525398
+"3575 Reed Ave Sacramento,CA",38.590715,-121.561125
+"3969 Industrial Blvd Sacramento,CA",38.56955,-121.576987
+"3960 Channel Dr Sacramento,CA",38.559602,-121.577136
+"4051 Seaport Blvd Sacramento,CA",38.56343,-121.580021
+"4051 Seaport Blvd Sacramento,CA",38.56343,-121.580021
+"10635 Folsom Blvd Sacramento,CA",38.595504,-121.293331
+"5450 Dewey Dr Sacramento,CA",38.665149,-121.307109
+"7901 Fair Oaks Blvd Sacramento,CA",38.6418,-121.272265
+"7223 Fair Oaks Blvd Sacramento,CA",38.632674,-121.329709
+"10673 Coloma Rd Sacramento,CA",38.612245,-121.290482
+"8065 Watt Ave Sacramento,CA",38.496188,-121.372147
+"7901 Watt Ave Sacramento,CA",38.496188,-121.372147
+"10655 Folsom Blvd Sacramento,CA",38.596087,-121.291824
+"6020 Fair Oaks Blvd Sacramento,CA",38.610532,-121.328372
+"1520 Sacramento Ave Sacramento,CA",38.590985,-121.538054
+"755 Riverpoint Ct Sacramento,CA",38.587337,-121.550037
+"3575 Reed Ave Sacramento,CA",38.590715,-121.561125
+"2335 Del Monte St Sacramento,CA",38.569007,-121.540543
+"3939 W Capitol Ave Sacramento,CA",38.577483,-121.563501
+"940 Riverside Pkwy Ste 50 Sacramento,CA",38.58809,-121.5699
+"3601 Parkway Pl Sacramento,CA",38.570666,-121.565509
+"910 Riverside Pkwy Sacramento,CA",38.588581,-121.568337
+"2935 Ramco St Sacramento,CA",38.556716,-121.561381
+"3771 Channel Dr Sacramento,CA",38.562713,-121.566256
+"731 Poplar Ave Sacramento,CA",38.580799,-121.533764
+"940 Riverside Pkwy # 30 Sacramento,CA",38.58809,-121.5699
+"4675 Watt Ave Sacramento,CA",38.534943,-121.370901
+"3840 Madison Ave Sacramento,CA",38.66091,-121.374017
+"4631 Watt Ave Sacramento,CA",38.535235,-121.370931
+"3885 Seaport Blvd Sacramento,CA",38.563646,-121.572752
+"1670 Overland Ct Sacramento,CA",38.567098,-121.575524
+"3969 Industrial Blvd Sacramento,CA",38.56955,-121.576987
+"3960 Channel Dr Sacramento,CA",38.559602,-121.577136
+"4051 Seaport Blvd Sacramento,CA",38.56343,-121.580021
+"4051 Seaport Blvd Sacramento,CA",38.56343,-121.580021
+"10635 Folsom Blvd Sacramento,CA",38.595504,-121.293331
+"5450 Dewey Dr Sacramento,CA",38.665149,-121.307109
+"7901 Fair Oaks Blvd Sacramento,CA",38.6418,-121.272265
+"7223 Fair Oaks Blvd Sacramento,CA",38.632674,-121.329709
+"10673 Coloma Rd Sacramento,CA",38.612245,-121.290482
+"8065 Watt Ave Sacramento,CA",38.496188,-121.372147
+"7901 Watt Ave Sacramento,CA",38.496188,-121.372147
+"10655 Folsom Blvd Sacramento,CA",38.596087,-121.291824
+"6020 Fair Oaks Blvd Sacramento,CA",38.610532,-121.328372
